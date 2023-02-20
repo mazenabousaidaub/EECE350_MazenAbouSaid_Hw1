@@ -1,0 +1,25 @@
+Input IP address of destination server: 93.184.216.34
+Request sent to server to connect to 93.184.216.34 at 2023-02-20 16:26:21.299578
+At 2023-02-20 16:26:21.637079 received:
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Date: Mon, 20 Feb 2023 14:26:23 GMT
+Server: ECS (dcb/7F5D)
+X-CFLO-Cache-Result: TCP_NC_MISS
+Content-Length: 345
+Connection: Keep-Alive
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>404 - Not Found</title>
+	</head>
+	<body>
+		<h1>404 - Not Found</h1>
+	</body>
+</html>
+
+Total Time Taken: 337.501 ms
+Mac Address: 0x68545a4732aa
