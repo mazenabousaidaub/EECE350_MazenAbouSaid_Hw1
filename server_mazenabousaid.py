@@ -1,3 +1,4 @@
+# By Mazen Abou Said with Prof Tajjedine
 import datetime
 from socket import *
 host = '127.0.0.1' #str(gethostbyname(gethostname())) works on private networks as Firewall Prevents Port Access by default on public networks
